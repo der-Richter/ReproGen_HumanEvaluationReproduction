@@ -1,0 +1,60 @@
+cover.
+spearman: ----SpearmanrResult(correlation=0.41443123283995714, pvalue=0.3552689437660521)
+pearson: ----(0.5784497178350685, 0.17367328166948873)
+kendall: ----KendalltauResult(correlation=0.39036002917941326, pvalue=0.2242565566718593)
+
+non-redun
+spearman: ----SpearmanrResult(correlation=0.642857142857143, pvalue=0.11939237342741094)
+pearson: ----(0.3772231606286692, 0.4041795116316267)
+kendall: ----KendalltauResult(correlation=0.4285714285714286, pvalue=0.2388888888888889)
+
+semant.
+spearman: ----SpearmanrResult(correlation=0.3571428571428572, pvalue=0.4316113520383278)
+pearson: ----(0.5362262998886852, 0.21469442913555653)
+kendall: ----KendalltauResult(correlation=0.14285714285714288, pvalue=0.7726190476190476)
+
+gramm
+spearman: ----SpearmanrResult(correlation=0.13636363636363635, pvalue=0.770648242474713)
+pearson: ----(0.326061903432615, 0.4754099060796243)
+kendall: ----KendalltauResult(correlation=0.049999999999999996, pvalue=0.877918602972138)
+
+reference
+spearman: ----SpearmanrResult(correlation=0.9486832980505139, pvalue=0.051316701949486114)
+pearson: ----(0.8176298175326757, 0.18237018246732428)
+kendall: ----KendalltauResult(correlation=0.912870929175277, pvalue=0.07095149242730567)
+
+C2T
+spearman: ----SpearmanrResult(correlation=-0.19999999999999998, pvalue=0.8)
+pearson: ----(-0.054536031402212304, 0.9454639685977877)
+kendall: ----KendalltauResult(correlation=0.0, pvalue=1.0)
+
+C2T_char
+spearman: ----SpearmanrResult(correlation=-0.19999999999999998, pvalue=0.8)
+pearson: ----(-0.3234459864610201, 0.6765540135389799)
+kendall: ----KendalltauResult(correlation=0.0, pvalue=1.0)
+
+C2T+pg
+spearman: ----SpearmanrResult(correlation=1.0, pvalue=0.0)
+pearson: ----(0.8253892563956734, 0.1746107436043266)
+kendall: ----KendalltauResult(correlation=1.0, pvalue=0.08333333333333333)
+
+C2T+pg+cv
+spearman: ----SpearmanrResult(correlation=0.7999999999999999, pvalue=0.20000000000000007)
+pearson: ----(0.965385751086837, 0.034614248913163004)
+kendall: ----KendalltauResult(correlation=0.6666666666666669, pvalue=0.3333333333333333)
+
+T2T+pg
+spearman: ----SpearmanrResult(correlation=1.0, pvalue=0.0)
+pearson: ----(0.8600128019470322, 0.13998719805296778)
+kendall: ----KendalltauResult(correlation=1.0, pvalue=0.08333333333333333)
+
+T2T+pg+cv
+spearman: ----SpearmanrResult(correlation=0.6000000000000001, pvalue=0.3999999999999999)
+pearson: ----(0.954591720069986, 0.04540827993001395)
+kendall: ----KendalltauResult(correlation=0.3333333333333334, pvalue=0.75)
+
+all
+spearman: ----SpearmanrResult(correlation=0.664749408665194, pvalue=0.00011404885575267321)
+pearson: ----(0.6906599313532038, 4.739501411749519e-05)
+kendall: ----KendalltauResult(correlation=0.5013351158613586, pvalue=0.00020035604718954454)
+
